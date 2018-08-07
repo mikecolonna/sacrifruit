@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 80c83346fdb9d42f8aea833ac7f3f18b
+timeCreated: 1525220589
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: orange_walk01
+    21300002: orange_walk02
+    21300004: orange_walk03
+    21300006: orange_walk04
+    21300008: orange_walk05
+    21300010: orange_walk06
+    21300012: orange_walk07
+    21300014: orange_walk08
+    21300016: orange_walk09
+    21300018: orange_walk10
+    21300020: orange_walk11
+    21300022: orange_walk12
+    21300024: orange_idle01
+    21300026: orange_idle02
+    21300028: orange_idle03
+    21300030: orange_idle04
+    21300032: orange_idle05
+    21300034: orange_select01
+    21300036: orange_select02
+    21300038: orange_select03
+    21300040: orange_select04
+    21300042: orange_select05
+    21300044: orange_select06
+    21300046: orange_select07
+    21300048: orange_select08
+    21300050: orange_select09
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orange_walk01
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1516
+        width: 351
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_walk02
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1514
+        width: 352
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_walk03
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1511
+        width: 352
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_walk04
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1511
+        width: 352
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_walk05
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1511
+        width: 351
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_walk06
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 1511
+        width: 355
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_walk07
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 1511
+        width: 354
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_walk08
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 1504
+        width: 352
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_walk09
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 1511
+        width: 355
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_walk10
+      rect:
+        serializedVersion: 2
+        x: 4838
+        y: 1511
+        width: 354
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_walk11
+      rect:
+        serializedVersion: 2
+        x: 5341
+        y: 1511
+        width: 355
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_walk12
+      rect:
+        serializedVersion: 2
+        x: 5841
+        y: 1516
+        width: 347
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_idle01
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 909
+        width: 356
+        height: 366
+      alignment: 9
+      pivot: {x: 0.80000544, y: 0.32213855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_idle02
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 902
+        width: 366
+        height: 369
+      alignment: 9
+      pivot: {x: 0.80103123, y: 0.3341554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_idle03
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 902
+        width: 354
+        height: 366
+      alignment: 9
+      pivot: {x: 0.8113676, y: 0.33011547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_idle04
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 901
+        width: 355
+        height: 370
+      alignment: 9
+      pivot: {x: 0.8184519, y: 0.33195207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_idle05
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 909
+        width: 364
+        height: 367
+      alignment: 9
+      pivot: {x: 0.80281353, y: 0.32287732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_select01
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 302
+        width: 352
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_select02
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 295
+        width: 352
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_select03
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 297
+        width: 348
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_select04
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 293
+        width: 358
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_select05
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 297
+        width: 351
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_select06
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 293
+        width: 356
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_select07
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 295
+        width: 365
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_select08
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 297
+        width: 353
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orange_select09
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 295
+        width: 351
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
