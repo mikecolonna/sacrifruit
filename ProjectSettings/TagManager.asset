@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Tile
+  - Fruit
+  - ActionObject
+  - Obstacle
+  - Exit
   layers:
   - Default
   - TransparentFX
@@ -13,10 +18,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Characters
+  - Background
+  - Foreground
+  - Obstacles
   - 
   - 
   - 
@@ -40,4 +45,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2746291071
+    locked: 0
+  - name: Water
+    uniqueID: 2515904555
+    locked: 0
+  - name: Platforms
+    uniqueID: 3465991689
+    locked: 0
+  - name: Characters
+    uniqueID: 3628077415
+    locked: 0
+  - name: UI
+    uniqueID: 4231558853
     locked: 0
